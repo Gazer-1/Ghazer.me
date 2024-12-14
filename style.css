@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+.ab {
+    color: white;
+    text-align: center;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+
+}
+.sometext {
+    color: white;
+    text-align: center;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+.sometext p {
+    margin: 0;
+}
